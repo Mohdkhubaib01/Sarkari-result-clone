@@ -13,7 +13,7 @@ A simple clone of the popular [Sarkari Result](https://www.sarkariresult.com/) w
 
 ---
 
-##  [Click Here to View Screenshot](assets/img1.png)
+## 📷 (assets/img1.png)
 ## 📷 [Click Here to View Screenshot](assets/img2.png)
 ## 📷 [Click Here to View Screenshot](assets/img3.png)
 ## 📷 [Click Here to View Screenshot](assets/img4.png)
