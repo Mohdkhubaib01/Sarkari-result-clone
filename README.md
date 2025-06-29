@@ -13,10 +13,13 @@ A simple clone of the popular [Sarkari Result](https://www.sarkariresult.com/) w
 
 ---
 
-## 📷 (assets/img1.png)
-## 📷 [Click Here to View Screenshot](assets/img2.png)
-## 📷 [Click Here to View Screenshot](assets/img3.png)
-## 📷 [Click Here to View Screenshot](assets/img4.png)
+## 📸 Screenshot
+
+![Ludo Clone Preview](assets/img1.png)
+![Ludo Clone Preview](assets/img2.png)
+![Ludo Clone Preview](assets/img3.png)
+![Ludo Clone Preview](assets/img4.png)
+
 
 ---
 
