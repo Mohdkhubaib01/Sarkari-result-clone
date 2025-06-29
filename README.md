@@ -70,7 +70,7 @@ Sarkari_Result_Clone/
 
 ## 📩 Contact
 
-Made by [Mohd Khubabi]  
+Made with ❤️ by [Your Name](https://github.com/Mohdkhubaib01)
 📧 [mkhubaib543@gmailc.com](mailto:mkhubaib543@gmail.com) 
 
 ---
