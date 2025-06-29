@@ -16,8 +16,11 @@ A simple clone of the popular [Sarkari Result](https://www.sarkariresult.com/) w
 ## 📸 Screenshot
 
 ![Ludo Clone Preview](assets/img1.png)
+
 ![Ludo Clone Preview](assets/img2.png)
+
 ![Ludo Clone Preview](assets/img3.png)
+
 ![Ludo Clone Preview](assets/img4.png)
 
 
